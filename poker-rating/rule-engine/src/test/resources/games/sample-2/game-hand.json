@@ -1,0 +1,166 @@
+{
+  "applicationId": "app1",
+  "sessionId": "unique-id",
+  "boardCards": [
+    "Kd",
+    "9d",
+    "3c",
+    "4h",
+    "6d"
+  ],
+  "players": [
+    {
+      "userId": "test1@test.com",
+      "cards": [
+        "Ac",
+        "Jd"
+      ]
+    },
+    {
+      "userId": "test2@test.com",
+      "cards": [
+        "Kc",
+        "Qh"
+      ]
+    },
+    {
+      "userId": "test3@test.com",
+      "cards": [
+        "Th",
+        "Ts"
+      ]
+    },
+    {
+      "userId": "test4@test.com",
+      "winner": true,
+      "cards": [
+        "8d",
+        "7d"
+      ]
+    }
+  ],
+  "roundBets": {
+    "pre-flop": [
+      {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "small-blind",
+        "pot": 0
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "big-blind",
+        "pot": 10
+      },
+      {
+        "userId": "test3@test.com",
+        "amount": 80,
+        "type": "raise",
+        "pot": 30
+      },
+      {
+        "userId": "test4@test.com",
+        "amount": 80,
+        "type": "call",
+        "pot": 110
+      },
+      {
+        "userId": "test1@test.com",
+        "amount": 70,
+        "type": "call",
+        "pot": 190
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 60,
+        "type": "call",
+        "pot": 260
+      }
+    ],
+    "flop": [
+      {
+        "userId": "test1@test.com",
+        "amount": 0,
+        "type": "check",
+        "pot": 320
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "check",
+        "pot": 320
+      },
+      {
+        "userId": "test3@test.com",
+        "amount": 160,
+        "type": "raise",
+        "pot": 320
+      },
+      {
+        "userId": "test4@test.com",
+        "amount": 160,
+        "type": "call",
+        "pot": 480
+      },
+      {
+        "userId": "test1@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 640
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 400,
+        "type": "raise",
+        "pot": 640
+      },
+      {
+        "userId": "test3@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 1040
+      },
+      {
+        "userId": "test4@test.com",
+        "amount": 240,
+        "type": "call",
+        "pot": 1040
+      }
+    ],
+    "turn": [
+      {
+        "userId": "test2@test.com",
+        "amount": 800,
+        "type": "raise",
+        "pot": 1280
+      },
+      {
+        "userId": "test4@test.com",
+        "amount": 800,
+        "type": "call",
+        "pot": 2080
+      }
+    ],
+    "river": [
+      {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "check",
+        "pot": 2880
+      },
+      {
+        "userId": "test4@test.com",
+        "amount": 1500,
+        "type": "raise",
+        "pot": 2080
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 1500,
+        "type": "call",
+        "pot": 3580
+      }
+    ]
+  }
+}

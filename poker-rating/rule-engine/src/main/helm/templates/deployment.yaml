@@ -1,0 +1,96 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ include "rule-engine.fullname" . }}
+  labels:
+    {{- include "rule-engine.labels" . | nindent 4 }}
+spec:
+  {{- if not .Values.autoscaling.enabled }}
+  replicas: {{ .Values.replicaCount }}
+  {{- end }}
+  selector:
+    matchLabels:
+      {{- include "rule-engine.selectorLabels" . | nindent 6 }}
+  template:
+    metadata:
+      {{- with .Values.podAnnotations }}
+      annotations:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      labels:
+        {{- include "rule-engine.selectorLabels" . | nindent 8 }}
+    spec:
+      {{- with .Values.imagePullSecrets }}
+      imagePullSecrets:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      serviceAccountName: {{ include "rule-engine.serviceAccountName" . }}
+      securityContext:
+        {{- toYaml .Values.podSecurityContext | nindent 8 }}
+      containers:
+        - name: {{ .Chart.Name }}
+          securityContext:
+            {{- toYaml .Values.securityContext | nindent 12 }}
+          image: "{{ .Values.image.repository }}:{{ .Values.image.tag | default .Chart.AppVersion }}"
+          imagePullPolicy: {{ .Values.image.pullPolicy }}
+          env:
+            - name: POKER_HOLDEM_CALC_CLIENT_ENDPOINT
+              value: "{{ .Values.env.poker.holdem.calc.client.endpoint }}"
+            - name: POKER_HOLDEM_CALC_CLIENT_CONNECTTIMEOUTSECONDS
+              value: "{{ .Values.env.poker.holdem.calc.client.connectTimeoutSeconds }}"
+            - name: POKER_HOLDEM_CALC_CLIENT_READTIMEOUTSECONDS
+              value: "{{ .Values.env.poker.holdem.calc.client.readTimeoutSeconds }}"
+            - name: POKER_PERCENTAGE_CALC_SHOWDOWNCALCPARALLELISM
+              value: "{{ .Values.env.poker.percentage.calc.showdownCalcParallelism }}"
+            - name: SPRING_DATA_MONGODB_DATABASE
+              value: "{{ .Values.env.mongodb.database }}"
+            - name: SPRING_DATA_MONGODB_HOST
+              value: "{{ .Values.env.mongodb.host }}"
+            - name: SPRING_DATA_MONGODB_PORT
+              value: "{{ .Values.env.mongodb.port }}"
+            - name: SPRING_DATA_MONGODB_AUTHENTICATION-DATABASE
+              value: "{{ .Values.env.mongodb.authenticationDatabase }}"
+            - name: SPRING_DATA_MONGODB_USERNAME
+              valueFrom:
+                secretKeyRef:
+                  key: username
+                  name: "{{ .Values.env.mongodb.secretName }}"
+                  optional: false
+            - name: SPRING_DATA_MONGODB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  key: password
+                  name: "{{ .Values.env.mongodb.secretName }}"
+                  optional: false
+          ports:
+            - name: http
+              containerPort: 8080
+              protocol: TCP
+          livenessProbe:
+            httpGet:
+              path: /rule-engine/actuator/health/liveness
+              port: http
+          readinessProbe:
+            httpGet:
+              path: /rule-engine/actuator/health/readiness
+              port: http
+          startupProbe:
+            httpGet:
+              path: /rule-engine/actuator/health/liveness
+              port: http
+            periodSeconds: 5
+            failureThreshold: 30
+          resources:
+            {{- toYaml .Values.resources | nindent 12 }}
+      {{- with .Values.nodeSelector }}
+      nodeSelector:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      {{- with .Values.affinity }}
+      affinity:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}
+      {{- with .Values.tolerations }}
+      tolerations:
+        {{- toYaml . | nindent 8 }}
+      {{- end }}

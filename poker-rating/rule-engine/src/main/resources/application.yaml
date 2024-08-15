@@ -1,0 +1,35 @@
+poker:
+  holdem:
+    calc:
+      client:
+        endpoint: "http://127.0.0.1:8081"
+        connectTimeoutSeconds: 10
+        readTimeoutSeconds: 120
+  percentage.calc:
+    showdownCalcParallelism: 10
+
+server:
+  forward-headers-strategy: framework
+  servlet:
+    context-path: /rule-engine
+
+spring:
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+      write-dates-with-zone-id: true
+  data:
+    mongodb:
+      database: poker
+      host: localhost
+      port: 27017
+      username: root
+      password: passw0rdTest
+      authentication-database: admin
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "health,info,metrics,prometheus"
+

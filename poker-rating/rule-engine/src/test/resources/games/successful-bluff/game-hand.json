@@ -1,0 +1,69 @@
+{
+  "applicationId": "app1",
+  "sessionId": "unique-id",
+  "boardCards": [
+    "Ts",
+    "Js",
+    "Kd",
+    "Qs",
+    "As"
+  ],
+  "players": [
+    {
+      "userId": "test1@test.com",
+      "cards": [
+        "Ad",
+        "Qd"
+      ]
+    },
+    {
+      "userId": "test2@test.com",
+      "cards": [
+        "Ks",
+        "Tc"
+      ]
+    },
+    {
+      "userId": "test3@test.com",
+      "winner": true,
+      "cards": [
+        "9c",
+        "2h"
+      ]
+    }
+  ],
+  "roundBets": {
+    "pre-flop": [
+      {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "small-blind",
+        "pot": 0
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "big-blind",
+        "pot": 10
+      },
+      {
+        "userId": "test3@test.com",
+        "amount": 400,
+        "type": "raise",
+        "pot": 30
+      },
+      {
+        "userId": "test1@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      }
+    ]
+  }
+}

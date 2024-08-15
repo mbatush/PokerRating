@@ -1,0 +1,319 @@
+{
+  "operationTimeMillis": 15358,
+  "prevRatings": [
+    {
+      "applicationId": "app1",
+      "userId": "test1@test.com",
+      "rating": 11146
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test2@test.com",
+      "rating": 11446
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test3@test.com",
+      "rating": 10132
+    }
+  ],
+  "newRatings": [
+    {
+      "applicationId": "app1",
+      "userId": "test1@test.com",
+      "rating": 11146
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test2@test.com",
+      "rating": 11414
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test3@test.com",
+      "rating": 10158
+    }
+  ],
+  "sumDecisions": {
+    "test2@test.com": -18,
+    "test3@test.com": 12,
+    "test1@test.com": 0
+  },
+  "decisions": [
+    {
+      "name": "Successful bluff",
+      "ruleName": "Bet Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 400,
+        "type": "raise",
+        "pot": 30
+      },
+      "ratingChange": 40,
+      "win": 19,
+      "showdown": 24,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 49,
+          "showdownPercentage": 93
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 32,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 19,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Normalize Pre-Flop gain/lost points",
+      "ruleName": "Normalize Pre-Flop",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 400,
+        "type": "raise",
+        "pot": 30
+      },
+      "ratingChange": -28,
+      "win": 19,
+      "showdown": 24,
+      "messages": [
+        "Normalize Pre-Flop total rule decisions '40' to '0.3' coefficient on 'FIRST' decision"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 49,
+          "showdownPercentage": 93
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 32,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 19,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Non Penalized Fold",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      "ratingChange": 0,
+      "win": 49,
+      "showdown": 93,
+      "equity": 48,
+      "pof": -2,
+      "messages": [
+        "Calculated call amount on fold: 390.0"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 49,
+          "showdownPercentage": 93
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 31,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 19,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Normalize Pre-Flop gain/lost points",
+      "ruleName": "Normalize Pre-Flop",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      "ratingChange": 0,
+      "win": 49,
+      "showdown": 93,
+      "messages": [
+        "Normalize Pre-Flop total rule decisions '0' to '0.3' coefficient on 'FIRST' decision"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 49,
+          "showdownPercentage": 93
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 31,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 19,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Incorrect Fold",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      "ratingChange": -10,
+      "win": 68,
+      "showdown": 76,
+      "equity": 47,
+      "pof": -45,
+      "messages": [
+        "Calculated call amount on fold: 380.0"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 68,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 32,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Incorrect Fold and your cards are Great Hand",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      "ratingChange": -30,
+      "win": 68,
+      "showdown": 76,
+      "equity": 47,
+      "pof": -45,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 68,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 32,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Incorrect Fold and bet size is Less than half pot",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      "ratingChange": -20,
+      "win": 68,
+      "showdown": 76,
+      "equity": 47,
+      "pof": -45,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 68,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 32,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Normalize Pre-Flop gain/lost points",
+      "ruleName": "Normalize Pre-Flop",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 430
+      },
+      "ratingChange": 42,
+      "win": 68,
+      "showdown": 76,
+      "messages": [
+        "Normalize Pre-Flop total rule decisions '-60' to '0.3' coefficient on 'FIRST' decision"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 68,
+          "showdownPercentage": 76
+        },
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 32,
+          "showdownPercentage": 24
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    }
+  ]
+}

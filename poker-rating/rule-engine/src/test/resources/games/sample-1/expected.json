@@ -1,0 +1,1735 @@
+{
+  "operationTimeMillis": 17182,
+  "prevRatings": [
+    {
+      "applicationId": "app1",
+      "userId": "test1@test.com",
+      "rating": 11155
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test2@test.com",
+      "rating": 11193
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test3@test.com",
+      "rating": 10229
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test4@test.com",
+      "rating": 9088
+    }
+  ],
+  "newRatings": [
+    {
+      "applicationId": "app1",
+      "userId": "test1@test.com",
+      "rating": 11146
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test2@test.com",
+      "rating": 11446
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test3@test.com",
+      "rating": 10132
+    },
+    {
+      "applicationId": "app1",
+      "userId": "test4@test.com",
+      "rating": 8705
+    }
+  ],
+  "sumDecisions": {
+    "test2@test.com": 115,
+    "test3@test.com": -54,
+    "test4@test.com": -213,
+    "test1@test.com": -5
+  },
+  "decisions": [
+    {
+      "name": "Good Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 30
+      },
+      "ratingChange": 30,
+      "win": 46,
+      "showdown": 98,
+      "equity": 40,
+      "pof": -15,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Good Call and your cards are Amazing Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 30
+      },
+      "ratingChange": 15,
+      "win": 46,
+      "showdown": 98,
+      "equity": 40,
+      "pof": -15,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Good Call and opponent cards are Great Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 30
+      },
+      "ratingChange": 20,
+      "win": 46,
+      "showdown": 98,
+      "equity": 40,
+      "pof": -15,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Good Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 30
+      },
+      "ratingChange": 10,
+      "win": 46,
+      "showdown": 98,
+      "equity": 40,
+      "pof": -15,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Good Call and bet size is Between half pot and pot exclusive",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 30
+      },
+      "ratingChange": 10,
+      "win": 46,
+      "showdown": 98,
+      "equity": 40,
+      "pof": -15,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Normalize Pre-Flop gain/lost points",
+      "ruleName": "Normalize Pre-Flop",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 30
+      },
+      "ratingChange": -59,
+      "win": 46,
+      "showdown": 98,
+      "messages": [
+        "Normalize Pre-Flop total rule decisions '85' to '0.3' coefficient on 'FIRST' decision"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Bad Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 50
+      },
+      "ratingChange": -10,
+      "win": 14,
+      "showdown": 77,
+      "equity": 29,
+      "pof": 52,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Bad Call and your cards are Great Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 50
+      },
+      "ratingChange": -8,
+      "win": 14,
+      "showdown": 77,
+      "equity": 29,
+      "pof": 52,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Bad Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 50
+      },
+      "ratingChange": -10,
+      "win": 14,
+      "showdown": 77,
+      "equity": 29,
+      "pof": 52,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Normalize Pre-Flop gain/lost points",
+      "ruleName": "Normalize Pre-Flop",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 50
+      },
+      "ratingChange": 20,
+      "win": 14,
+      "showdown": 77,
+      "messages": [
+        "Normalize Pre-Flop total rule decisions '-28' to '0.3' coefficient on 'FIRST' decision"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Good Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "call",
+        "pot": 70
+      },
+      "ratingChange": 30,
+      "win": 29,
+      "showdown": 89,
+      "equity": 13,
+      "pof": -123,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Good Call and your cards are Great Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "call",
+        "pot": 70
+      },
+      "ratingChange": 20,
+      "win": 29,
+      "showdown": 89,
+      "equity": 13,
+      "pof": -123,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Good Call and opponent cards are Amazing Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "call",
+        "pot": 70
+      },
+      "ratingChange": 30,
+      "win": 29,
+      "showdown": 89,
+      "equity": 13,
+      "pof": -123,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Good Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "call",
+        "pot": 70
+      },
+      "ratingChange": 10,
+      "win": 29,
+      "showdown": 89,
+      "equity": 13,
+      "pof": -123,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Normalize Pre-Flop gain/lost points",
+      "ruleName": "Normalize Pre-Flop",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 10,
+        "type": "call",
+        "pot": 70
+      },
+      "ratingChange": -63,
+      "win": 29,
+      "showdown": 89,
+      "messages": [
+        "Normalize Pre-Flop total rule decisions '90' to '0.3' coefficient on 'FIRST' decision"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 46,
+          "showdownPercentage": 98
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 29,
+          "showdownPercentage": 89
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 14,
+          "showdownPercentage": 77
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 9,
+          "showdownPercentage": 76
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "pre-flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Horrible Bluff",
+      "ruleName": "Bet Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "raise",
+        "pot": 80
+      },
+      "ratingChange": 10,
+      "win": 4,
+      "showdown": 95,
+      "equity": 17,
+      "pof": 76,
+      "messages": [
+        "Unsuccessful bluff leads to you winning hand. Turn points into +10."
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Incorrect Fold",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 100
+      },
+      "ratingChange": -20,
+      "win": 73,
+      "showdown": 97,
+      "equity": 17,
+      "pof": -329,
+      "messages": [
+        "Calculated call amount on fold: 20.0"
+      ],
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Incorrect Fold and your cards are Amazing Hand",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 100
+      },
+      "ratingChange": -40,
+      "win": 73,
+      "showdown": 97,
+      "equity": 17,
+      "pof": -329,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Incorrect Fold and bet size is Less than half pot",
+      "ruleName": "Fold Rule",
+      "bet": {
+        "userId": "test3@test.com",
+        "amount": 0,
+        "type": "fold",
+        "pot": 100
+      },
+      "ratingChange": -20,
+      "win": 73,
+      "showdown": 97,
+      "equity": 17,
+      "pof": -329,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Horrible Bluff",
+      "ruleName": "Bet Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 40,
+        "type": "raise",
+        "pot": 100
+      },
+      "ratingChange": -40,
+      "win": 5,
+      "showdown": 96,
+      "equity": 22,
+      "pof": 77,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Horrible Bluff and your cards are Amazing Hand",
+      "ruleName": "Bet Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 40,
+        "type": "raise",
+        "pot": 100
+      },
+      "ratingChange": -10,
+      "win": 5,
+      "showdown": 96,
+      "equity": 22,
+      "pof": 77,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 3
+      }
+    },
+    {
+      "name": "Bad Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 40,
+        "type": "call",
+        "pot": 140
+      },
+      "ratingChange": -20,
+      "win": 16,
+      "showdown": 48,
+      "equity": 22,
+      "pof": 27,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Bad Call and your cards are Ok Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 40,
+        "type": "call",
+        "pot": 140
+      },
+      "ratingChange": -12,
+      "win": 16,
+      "showdown": 48,
+      "equity": 22,
+      "pof": 27,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Bad Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 40,
+        "type": "call",
+        "pot": 140
+      },
+      "ratingChange": -10,
+      "win": 16,
+      "showdown": 48,
+      "equity": 22,
+      "pof": 27,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 4
+      }
+    },
+    {
+      "name": "Bad Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 180
+      },
+      "ratingChange": -20,
+      "win": 4,
+      "showdown": 95,
+      "equity": 10,
+      "pof": 60,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 5
+      }
+    },
+    {
+      "name": "Bad Call and your cards are Amazing Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 180
+      },
+      "ratingChange": -5,
+      "win": 4,
+      "showdown": 95,
+      "equity": 10,
+      "pof": 60,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 5
+      }
+    },
+    {
+      "name": "Bad Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 180
+      },
+      "ratingChange": -10,
+      "win": 4,
+      "showdown": 95,
+      "equity": 10,
+      "pof": 60,
+      "playerPercentages": [
+        {
+          "userId": "test3@test.com",
+          "winPercentage": 73,
+          "showdownPercentage": 97
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 16,
+          "showdownPercentage": 48
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 5,
+          "showdownPercentage": 96
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 4,
+          "showdownPercentage": 95
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "flop",
+        "playerTurnIndex": 5
+      }
+    },
+    {
+      "name": "Good Bet",
+      "ruleName": "Bet Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 20,
+        "type": "raise",
+        "pot": 200
+      },
+      "ratingChange": 30,
+      "win": 70,
+      "showdown": 85,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 0
+      }
+    },
+    {
+      "name": "Good Bet and your cards are Great Hand",
+      "ruleName": "Bet Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 20,
+        "type": "raise",
+        "pot": 200
+      },
+      "ratingChange": 20,
+      "win": 70,
+      "showdown": 85,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 0
+      }
+    },
+    {
+      "name": "Good Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 220
+      },
+      "ratingChange": 40,
+      "win": 22,
+      "showdown": 64,
+      "equity": 8,
+      "pof": -175,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Good Call and your cards are Good Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 220
+      },
+      "ratingChange": 30,
+      "win": 22,
+      "showdown": 64,
+      "equity": 8,
+      "pof": -175,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Good Call and opponent cards are Great Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 220
+      },
+      "ratingChange": 20,
+      "win": 22,
+      "showdown": 64,
+      "equity": 8,
+      "pof": -175,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Good Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 220
+      },
+      "ratingChange": 10,
+      "win": 22,
+      "showdown": 64,
+      "equity": 8,
+      "pof": -175,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Terrible Call",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 240
+      },
+      "ratingChange": -40,
+      "win": 2,
+      "showdown": 63,
+      "equity": 8,
+      "pof": 75,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Terrible Call and your cards are Good Hand",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 240
+      },
+      "ratingChange": -10,
+      "win": 2,
+      "showdown": 63,
+      "equity": 8,
+      "pof": 75,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Terrible Call and position is Neither",
+      "ruleName": "Call Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 20,
+        "type": "call",
+        "pot": 240
+      },
+      "ratingChange": -10,
+      "win": 2,
+      "showdown": 63,
+      "equity": 8,
+      "pof": 75,
+      "playerPercentages": [
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 70,
+          "showdownPercentage": 85
+        },
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 22,
+          "showdownPercentage": 64
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 2,
+          "showdownPercentage": 63
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "turn",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Failed Bluff on Amazing Hand",
+      "ruleName": "River Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 1000,
+        "type": "all-in",
+        "pot": 260
+      },
+      "ratingChange": -30,
+      "win": 0,
+      "showdown": 96,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 100,
+          "showdownPercentage": 100,
+          "rank": 9,
+          "rankName": "Royal Flush"
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 96,
+          "rank": 5,
+          "rankName": "Flush"
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 0,
+          "rank": 4,
+          "rankName": "Straight"
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "river",
+        "playerTurnIndex": 0
+      }
+    },
+    {
+      "name": "Horrible Bluff and your cards are Amazing Hand",
+      "ruleName": "River Rule",
+      "bet": {
+        "userId": "test1@test.com",
+        "amount": 1000,
+        "type": "all-in",
+        "pot": 260
+      },
+      "ratingChange": -10,
+      "win": 0,
+      "showdown": 96,
+      "equity": 44,
+      "pof": 100,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 100,
+          "showdownPercentage": 100,
+          "rank": 9,
+          "rankName": "Royal Flush"
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 96,
+          "rank": 5,
+          "rankName": "Flush"
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 0,
+          "rank": 4,
+          "rankName": "Straight"
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "river",
+        "playerTurnIndex": 0
+      }
+    },
+    {
+      "name": "Opponent bets and You raise with the best hand in order to try to get max value",
+      "ruleName": "River Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 2000,
+        "type": "all-in",
+        "pot": 1260
+      },
+      "ratingChange": 30,
+      "win": 100,
+      "showdown": 100,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 100,
+          "showdownPercentage": 100,
+          "rank": 9,
+          "rankName": "Royal Flush"
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 96,
+          "rank": 5,
+          "rankName": "Flush"
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 0,
+          "rank": 4,
+          "rankName": "Straight"
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "river",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Good Bet and your cards are Amazing Hand",
+      "ruleName": "River Rule",
+      "bet": {
+        "userId": "test2@test.com",
+        "amount": 2000,
+        "type": "all-in",
+        "pot": 1260
+      },
+      "ratingChange": 10,
+      "win": 100,
+      "showdown": 100,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 100,
+          "showdownPercentage": 100,
+          "rank": 9,
+          "rankName": "Royal Flush"
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 96,
+          "rank": 5,
+          "rankName": "Flush"
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 0,
+          "rank": 4,
+          "rankName": "Straight"
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "river",
+        "playerTurnIndex": 1
+      }
+    },
+    {
+      "name": "Failed Bluff on Horrible Hand",
+      "ruleName": "River Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 2000,
+        "type": "all-in",
+        "pot": 3260
+      },
+      "ratingChange": -60,
+      "win": 0,
+      "showdown": 0,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 100,
+          "showdownPercentage": 100,
+          "rank": 9,
+          "rankName": "Royal Flush"
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 96,
+          "rank": 5,
+          "rankName": "Flush"
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 0,
+          "rank": 4,
+          "rankName": "Straight"
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "river",
+        "playerTurnIndex": 2
+      }
+    },
+    {
+      "name": "Horrible Bluff and your cards are Horrible Hand",
+      "ruleName": "River Rule",
+      "bet": {
+        "userId": "test4@test.com",
+        "amount": 2000,
+        "type": "all-in",
+        "pot": 3260
+      },
+      "ratingChange": -35,
+      "win": 0,
+      "showdown": 0,
+      "equity": 28,
+      "pof": 100,
+      "playerPercentages": [
+        {
+          "userId": "test2@test.com",
+          "winPercentage": 100,
+          "showdownPercentage": 100,
+          "rank": 9,
+          "rankName": "Royal Flush"
+        },
+        {
+          "userId": "test1@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 96,
+          "rank": 5,
+          "rankName": "Flush"
+        },
+        {
+          "userId": "test4@test.com",
+          "winPercentage": 0,
+          "showdownPercentage": 0,
+          "rank": 4,
+          "rankName": "Straight"
+        }
+      ],
+      "gameStateIndex": {
+        "bettingRound": "river",
+        "playerTurnIndex": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+Wednesday Night cash game ⅖ deep Feb 19 2020
+5= Joaquin, 6=Russ 7=Jeremey 8=Chad 9=Ken 1=Scott 2=Franco 3=Josh 4=Greg
+24=Bek
+
+5=15 16=16 7=17 8=18 9=19 1=11 2=12 3=13 4=14
+
+
+6 7 8 9 1 2 3 4 5
+Players: 5h3s#16 Qc4c#17 Ah9h#18 Js8d#19 KcQd#11 Ad7c#12 2s2c#13 KdJd#14 Ts5d#15
+Winners:Ah9h#18
+Board: 7s Ac 4s 9d
+PreFlop:KdJd:small-blind:2:0, Ts5d:big-blind:5:2, 5h3s:fold:0:7, Qc4c:fold:0:7, Ah9h:call:5:7, Js8d:call:25:35, KcQd:raise:20:12, Ad7c:fold:0:32, 2s2c:call:20:32, KdJd:call:18:52, Ts5d:fold:0:70, Ah9h:call:15:70
+Flop: KdJd:check:0:85, Ah9h:check:0:85, KcQd:check:0:85, 2s2c:check:0:85,
+Turn: KdJd:check:0:85, Ah9h:raise:35:85, KcQd:fold:0:120, 2s2c:fold:0:120, KdJd:fold:0:120
+
+7 8 9 1 2 3 4 5 6
+Players: 5c4d#17 5s5d#18 Th9d#19 3d3c#11 9h8c#12 8h8d#13 7d2c#14 AdKc#15 8s4s#16
+Winners:8h8d#13
+Board: 2d 6c 6h Qs 2h
+PreFlop:AdKc:small-blind:2:0, 8s4s:big-blind:5:2, 5c4d:fold:0:7, 5s5d:call:5:7, Th9d:fold:0:12, 3d3c:raise:25:12, 9h8c:fold:0:37, 8h8d:call:25:37, 7d2c:fold:0:62, AdKc:raise:70:62, 8s4s:fold:0:132, 5s5d:call:65:132, 3d3c:call:45:197, 8h8d:call:45:243
+Flop: AdKc:raise:105:288, 5s5d:fold:0:393, 3d3c:fold:0:393, 8h8d:call:105:393,
+Turn: AdKc:check:0:498, 8h8d:raise:35:498,
+River: AdKc:raise:250:498, 8h8d:call:250:998
+
+8 9 1 2 3 4 5 6 7
+Players: 3c2s#18 5d3h#19 Qh5s#11 KhTc#12 7s5h#13 Ad2h#14 AsKc#15 8c4s#16 Js6c#17
+Winners: AsKc#15
+Board: 3d Qc 8s 6d
+PreFlop:8c4s:small-blind:2:0, Js6c:big-blind:5:2, 3c2s:fold:0:7, 5d3h:fold:0:7, Qh5s:fold:0:7, KhTc:raise:20:7, 7s5h:fold:0:27, Ad2h:call:20:27, AsKc:raise:50:47, 8c4s:fold:0:97, Js6c:fold:0:97, KhTc:call:30:97, Ad2h:call:30:127
+Flop: KhTc:check:0:157, Ad2h:check:0:157, AsKc:check:0:157,
+Turn: KhTc:check:0:157, Ad2h:check:0:157, AsKc:raise:85:157, KhTc:fold:0:242, Ad2h:fold:0:242,
+
+9 1 2 3 4 5 6 7 8
+Players: Kh4s#19 Qh2h#11 AdQc#12 Th6c#13 2s7s#14 As9d#15 Tc6s#16 Kc8c#17 QsJs#18
+Winners: As9d#15
+Board: 9h Jh 7d Ac
+PreFlop:Kc8c:small-blind:2:0, QsJs:big-blind:5:2, Kh4s:fold:0:7, Qh2h:fold:0:7, AdQc:raise:20:7, Th6c:fold:0:27, 2s7s:fold:0:27, As9d:call:20:27, Tc6s:fold:0:47, Kc8c:fold:0:47, QsJs:call:15:47,
+Flop: QsJs:check:0:62, AdQc:check:0:62, As9d:raise:60:62, QsJs:call:60:122, AdQc:fold:0:182
+Turn: QsJs:check:0:182, As9d:raise:110:182, QsJs:fold:0:292
+
+1 2 3 4 5 6 7 8 9
+Players: 6h4c#11 Ah9h#12 Th7h#13 Tc4h#14 9s2s#15 KsTs#16 Td2c#17 KhJh#18 Qc5d#19
+Winners: Ah9h#12
+Board: 2d 5s 4d 3s Kd
+PreFlop:KhJh:small-blind:2:0, Qc5d:big-blind:5:2, 6h4c:fold:0:7, Ah9h:raise:20:7, Th7h:fold:0:27, Tc4h:fold:0:27, 9s2s:fold:0:27, KsTs:raise:60:27, Td2c:fold:0:87, KhJh:call:58:87, Qc5d:fold:0:145, Ah9h:call:40:145
+Flop: KhJh:check:0:185, Ah9h:check:0:185, KsTs:check:0:185,
+Turn: KhJh:check:0:185, Ah9h:check:0:185, KsTs:raise:125:185, KhJh:fold:0:310, Ah9h:call:125:310,
+River: Ah9h:check:0:435, KsTs:check:0:435
+
+
+Hand 6
+Players: Ah9s#12 Ks9c#14 JhTc#16 Qs5c#17 Jd7c#18 KcTd#19 8h5d#11
+Winners: KcTd#19
+Board: Kh 3d 3c 2d 2h
+PreFlop: KcTd:small-blind:2:0, 8h5d:big-blind:5:2, Ah9s:fold:0:7, Ks9c:call:5:7, JhTc:raise:25:12, Qs5c:fold:0:37, Jd7c:fold:0:37, KcTd:call:23:37, 8h5d:fold:0:60, Ks9c:call:23:60,
+Flop: KcTd:check:0:83, Ks9c:check:0:83, JhTc:raise:35:83, KcTd:call:35:118, Ks9c:raise:70:153, JhTc:fold:0:223, KcTd:call:35:223,
+Turn: KcTd:check:0:258, Ks9c:check:0:258
+River: KcTd:check:0:258, Ks9c:check:0:258
+
+Hand 7
+Players: 4s2c#15 Ad2h#16 9h8h#17 Jh7h#18 AhKh#19 9s9d#12 Qs4d#13 Js3s#14
+Winners: AhKh#19
+Board: 4h 5d Ac 7c
+PreFlop: Qs4d:small-blind:2:0, Js3s:big-blind:5:2, 4s2c:fold:0:7, Ad2h:fold:0:7, 9h8h:raise:10:7, Jh7h:fold:0:17, AhKh:raise:35:17, 9s9d:call:35:52, Qs4d:fold:0:97, Js3s:call:25:97, 9h8h:call:25:122
+Flop: 9s9d:check:0:147, Js3s:check:0:147, 9h8h:check:0:147, AhKh:check:0:147,
+Turn: 9s9d:check:0:147, Js3s:check:0:147, 9h8h:check:0:147, AhKh:raise:100:147, 9s9d:fold:0:247, Js3s:fold:0:247, 9h8h:fold:0:247
+
+
+
+
+
+
+
+
+
+
+7 8 9 1 2 3 4
+Players: 8c5d#17 5c4h#18 Ts8d#19 QdJd#11 7h3c#12 KdKc#13 JhTh#14
+Winners: KdKc#13
+Board: 5s 3d Kh 2d Qs
+PreFlop: KdKc:small-blind:2:0, JhTh:big-blind:5:2, 8c5d:fold:0:7, 5c4h:fold:0:7, Ts8d:fold:0:7, QdJd:raise:10:7, 7h3c:fold:0:17, KdKc:raise:40:17, JhTh:call:30:57, QdJd:call:30:87
+Flop: QdJd:check:0:117, KdKc:check:0:117, JhTh:check:0:117,
+Turn: QdJd:check:0:117, KdKc:raise:35:117, JhTh:fold:0:152, QdJd:call:35:152,
+River: QdJd:check:0:187, KdKc:raise:60:187, QdJd:call:60:247
+
+3 4 5 6 7 8 9 1
+Players: ThTd#13 Qs3s#14 AsJs#15 6s2h#16 Kh8s#17 9c4h#18 9h2s#19 Ah5c#11
+Winners: AsJs#15
+Board: 2d Jd 9s 5h 3c
+PreFlop: 9h2s:small-blind:2:0, Ah5c:big-blind:5:2, ThTd:raise:25:7, Qs3s:fold:0:32, AsJs:call:25:32, 6s2h:fold:0:57, Kh8s:fold:0:57, 9c4h:fold:0:57, 9h2s:fold:0:57, Ah5c:fold:0:57
+Flop: ThTd:raise:30:57, AsJs:call:30:87,
+Turn: ThTd:raise:40:117, AsJs:call:40:157,
+River: ThTd:check:0:197, AsJs:raise:80:197, ThTd:call:80:277
+
+4 6 8 9 1 2 3
+Players: Jd8d#14 AsTs#16 Qd3c#18 7d5d#19 Qh6s#11 Kd4c#12 Th4d#13
+Winners: AsTs#16
+Board: 5c Ad 9c
+PreFlop: Kd4c:small-blind:2:0, Th4d:big-blind:5:2, Jd8d:call:5:7, AsTs:raise:25:12, Qd3c:fold:0:37, 7d5d:fold:0:37, Qh6s:fold:0:37, Kd4c:fold:0:37, Th4d:fold:0:37, Jd8d:call:20:37
+Flop: Jd8d:check:0:57, AsTs:raise:25:57, Jd8d:fold:0:82
+
+
+Russ gets out $115 all in
+Players: 7h6c#15 8h6h#16 8s4h#17 Kc3s#19 Qh9s#12 JsJc#13 AsKd#14
+Winners: JsJc#13
+Board: 5c 9h 3h 7d Tc
+PreFlop: JsJc:small-blind:2:0, AsKd:big-blind:5:2, 7h6c:fold:0:7, 8h6h:raise:20:7, 8s4h:fold:0:27, Kc3s:fold:0:27, Qh9s:fold:0:27, JsJc:raise:70:27, AsKd:raise:115:97, 8h6h:fold:0:212, JsJc:call:45:212
+Flop:
+
+1:25
+
+
+
+Players:Th5s#16 4h4c#17 6s4s#18 Tc7c#15
+Winners: 4h4c#17
+Board: 4d 3c 8c 2d
+PreFlop: 6s4s:small-blind:2:0, Tc7c:big-blind:5:2, Th5s:fold:0:7, 4h4c:call:5:7, 6s4s:call:5:12, Tc7c:check:0:17,
+Flop: Tc7c:check:0:17, 4h4c:check:0:17, 6s4s:raise:10:17, Tc7c:call:10:27, 4h4c:raise:60:37, 6s4s:fold:0:97, Tc7c:call:50:97,
+Turn: Tc7c:check:0:147, 4h4c:raise:115:147, Tc7c:fold:0:262
+
+Players: KhKd#12 Jh5c#13 Jc7s#14
+Winners: KhKd#12
+Board: Ah Tc 9h Qh 4c
+PreFlop: Jh5c:small-blind:2:0, Jc7s:big-blind:5:2, KhKd:raise:30:7, Jh5c:fold:0:37, Jc7s:call:20:37,
+Flop: KhKd:check:0:57, Jc7s:check:0:57,
+Turn: KhKd:raise:30:57, Jc7s:call:30:87,
+River: KhKd:check:0:117, Jc7s:raise:45:117, KhKd:call:45:162
+
+Players: Jd4s#18 9c2h#19 9d2s#11 Tc8c#12 6h4h#14 8s8h#15 5s2c#17
+Winners: 8s8h#15
+Board: 9s 4d 3s Kd Kh
+PreFlop: 8s8h:small-blind:2:0, 5s2c:big-blind:5:2, Jd4s:fold:0:7, 9c2h:fold:0:7, 9d2s:fold:0:7, Tc8c:raise:20:7,6h4h:call:20:27,8s8h:call:20:47, 5s2c:fold:0:67,
+Flop: Tc8c:check:0:67, 6h4h:check:0:67, 8s8h:raise:50:67, Tc8c:fold:0:117, 6h4h:call:50:117,
+Turn: 6h4h:check:0:167, 8s8h:check:0:167,
+River: 6h4h:check:0:167, 8s8h:check:0:167
+
+
+Players: Jc7s#11 Qc6h#13 Qd4h#15 Js7d#16 Ac3s#14 7c2d#17 Ah2c#18
+Winners: Ac3s#14
+Board: 3h 9d 2h 8h Ad
+PreFlop: 7c2d:small-blind:2:0, Ah2c:big-blind:5:2, Jc7s:call:5:7, Qc6h:fold:0:12, Qd4h:fold:0:12, Js7d:call:5:12, Ac3s:call:5:17, 7c2d:fold:0:22, Ah2c:check:0:22,
+Flop: Ah2c:check:0:22, Jc7s:check:0:22, Ac3s:check:0:22, Js7d:check:0:22,
+Turn: Ah2c:raise:10:22, Jc7s:fold:0:32, Ac3s:call:10:32, Js7d:fold:0:42,
+River:Ah2c:raise:30:42, Ac3s:raise:60:72, Ah2c:call:30:132,
+
+Players: Kd8d#13 3s3h#14 7h7c#15 Jd5h#16 5s5c#17 9d8h#18 JsJh#19 Th4d#11
+Winners: JsJh#19
+Board: 2d Kh 9s
+PreFlop: JsJh:small-blind:2:0, Th4d:big-blind:5:2, Kd8d:fold:0:7, 3s3h:call:5:7, 7h7c:call:5:12, Jd5h:fold:0:12, 5s5c:call:5:17, 9d8h:call:5:22, JsJh:raise:30:27, Th4d:fold:0:57, 3s3h:call:25:57, 7h7c:call:25:82, 5s5c:fold:0:107, 9d8h:fold:0:107,
+Flop: JsJh:raise:60:107, 3s3h:fold:0:167, 7h7c:fold:0:167
+
+Players: 7d6d#13 Qd8c#14 Jc9h#15 KcJs#11 Ah7c#12
+Winners:KcJs#11
+Board: Ad Th Ks Qh 9d
+PreFlop: KcJs:small-blind:2:0, Ah7c:big-blind:5:2, 7d6d:raise:25:7, Qd8c:call:25:32, Jc9h:fold:0:57, KcJs:call:23:57, Ah7c:fold:0:80
+Flop: KcJs:check:0:80, 7d6d:check:0:80, Qd8c:check:0:80,
+Turn: KcJs:check:0:80, 7d6d:check:0:80, Qd8c:check:0:80,
+River: KcJs:raise:35:80, 7d6d:fold:0:115, Qd8c:fold:0:115,
+
+
+
+
+Players: Qd8d#14 Kh6c#16 3h2h#18 Tc7s#12 8h3c#13
+Winners: Tc7s#12
+Board: Jd Th 7c 6h
+PreFlop: Tc7s:small-blind:2:0, 8h3c:big-blind:5:2, Qd8d:call:5:7, Kh6c:fold:0:12, 3h2h:call:5:12, Tc7s:call:3:17, 8h3c:check:0:20,
+Flop: Tc7s:check:0:20, 8h3c:check:0:20, Qd8d:raise:10:20, 3h2h:fold:0:30, Tc7s:raise:30:30, 8h3c:fold:0:60, Qd8d:call:20:60,
+Turn: Tc7s:raise:35:80, Qd8d:fold:0:115,
+
+Players: 8d8c#15 7h4h#16 QdQc#17
+Winners: QdQc#17
+Board: 4d 9s Kd 5h Qs
+PreFlop: 7h4h:small-blind:2:0, QdQc:big-blind:5:2, 8d8c:raise:25:7, 7h4h:fold:0:32, QdQc:raise:75:32, 8d8c:call:50:107,
+Flop: 8d8c:check:0:157, QdQc:raise:105:157, 8d8c:call:105:262,
+Turn: 8d8c:check:0:367, QdQc:check:0:367,
+River: 8d8c:check:0:367, QdQc:raise:160:367, 8d8c:call:160:527
+
+Players: 9h4d#16 KhKc#18 Tc6h#13 Kd7d#14
+Winners: KhKc#18
+Board: 9d 2d Ts Ks Jc
+PreFlop: Tc6h:small-blind:2:0, Kd7d:big-blind:5:2, 9h4d:call:5:7, KhKc:call:5:12, Tc6h:raise:30:17, Kd7d:call:30:47, 9h4d:fold:0:77, KhKc:raise:80:77, Tc6h:fold:0:157, Kd7d:raise:105:157, KhKc:call:25:262
+
+Players: QcTh#18 8c5h#19 6c4d#11 TdTc#12 AcJs#16
+Winners: AcJs#16
+Board: 3c 4h Ah Kh
+PreFlop: TdTc:small-blind:2:0, AcJs:big-blind:5:2, QcTh:fold:0:7, 8c5h:fold:0:7, 6c4d:fold:0:7, TdTc:raise:25:7, AcJs:call:23:32
+Flop: AcJs:check:0:55, TdTc:check:0:55,
+Turn: AcJs:raise:40:55, TdTc:fold:0:95,
+
+
+Players: 7d5h#19 6c4d#11 7h7c#12 8c4c#13 9h4h#16 Ah6h#18
+Winners: 7h7c#12
+Board: 3c 4s 8d
+PreFlop: 9h4h:small-blind:2:0, Ah6h:big-blind:5:2, 7d5h:fold:0:7, 6c4d:fold:0:7, 7h7c:raise:20:7, 8c4c:fold:0:27, 9h4h:fold:0:27, Ah6h:call:15:27
+Flop: Ah6h:check:0:42, 7h7c:raise:15:42, Ah6h:fold:0:57,
+
+Players: 4s4h#11 4c2d#12 7h5h#15 6c3c#16 9h8c#19
+Winners: 4s4h#11
+Board: Js Jc Ac 7s Jh
+PreFlop: 6c3c:small-blind:2:0, 9h8c:big-blind:5:2, 4s4h:call:5:7, 4c2d:fold:0:12, 7h5h:fold:0:12, 6c3c:raise:20:12, 9h8c:call:15:32,  4s4h:call:15:47,
+Flop: 9h8c:check:0:62, 4s4h:check:0:62, 6c3c:raise:25:62, 9h8c:fold:0:87, 4s4h:call:25:87,
+Turn: 4s4h:check:0:112, 6c3c:check:0:112,
+River:  4s4h:check:0:112, 6c3c:check:0:112,
+
+Players: 9h7d#12 Th8s#13 Ts4c#24 6c3c#16 8d8c#11
+Winners: Th8s#13
+Board: Qd 3s Ks Ad
+PreFlop: 6c3c:small-blind:2:0, 8d8c:big-blind:5:2, 9h7d:fold:0:7, Th8s:raise:30:7, Ts4c:fold:0:37, 6c3c:fold:0:37, 8d8c:call:25:37,
+Flop: 8d8c:check:0:62, Th8s:raise:25:62, 8d8c:call:25:87,
+Turn: 8d8c:check:0:112, Th8s:raise:40:112, 8d8c:fold:0:152,
+
+New Hand”
+Players: 8s2h#13 JdTh#24 6h4h#16 8d7h#15 Qc4c#18 Qd9h#12
+Winners: JdTh#24
+Board: 2d 9s Ts Td
+PreFlop: Qc4c:small-blind:2:0, Qd9h:big-blind:5:2, 8s2h:fold:0:7, JdTh:call:5:7, 6h4h:raise:25:12, 8d7h:fold:0:37, Qc4c:fold:0:37, Qd9h:fold:0:37, JdTh:call:20:37,
+Flop: JdTh:check:0:57, 6h4h:check:0:57,
+Turn: JdTh:raise:55:57, 6h4h:fold:0:112,
+
+Issue1
+Players: Ad9s#24 Qc8d#11 Jd2h#12 Th5s#13
+Winners: Ad9s#24
+Board: 7d 9d 7s
+PreFlop: Jd2h:small-blind:2:0, Th5s:big-blind:5:2, Ad9s:call:5:7, Qc8d:call:5:12, Jd2h:call:3:17, Th5s:check:0:20,
+Flop: Jd2h:check:0:20, Th5s:fold:0:20, Ad9s:raise:35:20, Qc8d:fold:0:55, Jd2h:fold:0:55,
+
+
+
+
+
+
+Players: Js9d#15 5h4s#12 Th8d#13 Qs7d#24
+Winners: Th8d#13
+Board: Kc 5d Tc Kd As
+PreFlop: Th8d:small-blind:2:0, Qs7d:big-blind:5:2, Js9d:fold:0:7, 5h4s:raise:15:7, Th8d:call:12:22, Qs7d:call:10:34,
+Flop: Th8d:check:0:44, Qs7d:check:0:44, 5h4s:check:0:44,
+Turn: Th8d:check:0:44, Qs7d:check:0:44, 5h4s:raise:20:44, Th8d:call:20:64, Qs7d:fold:0:84,
+River: Th8d:check:0:84, 5h4s:raise:40:84, Th8d:call:40:124,
+
+Players: As9s#15 JdTs#19 Kc9h#11 Th5h#13
+Winners: As9s#15
+Board: 9d 5s Ah 4d 8h
+PreFlop: Kc9h:small-blind:2:0, Th5h:big-blind:5:2, As9s:call:5:7, JdTs:raise:30:12, Kc9h:fold:0:42, Th5h:call:25:42, As9s:call:20:67
+Flop: As9s:check:0:87, JdTs:check:0:87, Th5h:raise:30:87, As9s:raise:60:117, JdTs:fold:0:177, Th5h:call:30:177
+Turn: As9s:check:0:207, Th5h:check:0:207,
+River: As9s:raise:85:207, Th5h:fold:0:292,
+
+
+Players: Qc8c#11 Js2h#17 9c7c#18
+Winners: Qc8c#11
+Board: Kc Kd As Ks 8d
+PreFlop: Js2h:small-blind:2:0, 9c7c:big-blind:5:2, Qc8c:call:5:7, Js2h:call:3:12, 9c7c:check:0:15
+Flop: Js2h:check:0:15, 9c7c:check:0:15, Qc8c:check:0:15,
+Turn: Js2h:check:0:15, 9c7c:check:0:15, Qc8c:check:0:15
+River: Js2h:raise:20:15, 9c7c:fold:0:35, Qc8c:call:20:35
+
+Players: Ac7c#19 9h2c#11 8h8c#24
+Winners: 8h8c#24
+Board: 7h Ad 8d 2h 9d
+PreFlop: 9h2c:small-blind:2:0, 8h8c:big-blind:5:2, Ac7c:call:5:7, 9h2c:call:5:12, 8h8c:raise:35:17, Ac7c:call:30:52, 9h2c:call:30:82,
+Flop: Ac7c:check:0:112, 9h2c:check:0:112, 8h8c:raise:85:112, Ac7c:raise:215:197, 9h2c:fold:0:412, 8h8c:raise:435:412, Ac7c:raise:964:847, 8h8c:call:964:1811,
+
+Players: Kh5h#24 KsJh#16 TdTc#11
+Winners: KsJh#16
+Board: Qc 4d Kd 6d
+PreFlop: KsJh:small-blind:2:0, TdTc:big-blind:5:2, Kh5h:call:5:7, KsJh:raise:25:12, TdTc:call:23:37, Kh5h:call:20:60,
+Flop: Kh5h:check:0:80, KsJh:raise:35:80, TdTc:call:35:115, Kh5h:call:35:150
+Turn: Kh5h:check:0:185, KsJh:raise:75:185, TdTc:fold:0:260, Kh5h:fold:0:260
+
+Players: Ad4c#11 8c7d#12 9s7c#24 Kh5h#17
+Winners: Ad4c#11
+Board: Js 2d 2s As 2c
+PreFlop: 9s7c:small-blind:2:0, Kh5h:big-blind:5:2, Ad4c:call:5:7, 8c7d:call:5:12, 9s7c:call:3:17, Kh5h:check:0:20,
+Flop: Ad4c:check:0:20, 8c7d:check:0:20, 9s7c:check:0:20,Kh5h:check:0:20,
+Turn: Ad4c:check:0:20, 8c7d:check:0:20, 9s7c:check:0:20,Kh5h:check:0:20,
+River: Ad4c:raise:30:20, 8c7d:fold:0:50, 9s7c:fold:0:50,Kh5h:fold:0:50,
+
+Players: KhJh#15 AdQd#11 7h7d#13 Ah9c#24
+Winners: 7h7d#13
+Board: Jc 6c 8s
+PreFlop: 7h7d:small-blind:2:0, Ah9c:big-blind:5:2, KhJh:raise:30:7, AdQd:call:30:37, 7h7d:raise:105:67, Ah9c:fold:0:172, KhJh:fold:0:172,  AdQd:call:75:172,
+Flop: 7h7d:raise:225:247, AdQd:fold:0:472,
+
+2:10
+Players: QcJd#17 Kh9c#16 7s5c#11
+Winners: Kh9c#16
+Board: Kc 7c Th 3c Ts
+PreFlop: Kh9c:small-blind:2:0, 7s5c:big-blind:5:2, QcJd:call:5:7, Kh9c:call:5:12, 7s5c:check:0:17,
+Flop: Kh9c:raise:20:17, QcJd:call:20:37, 7s5c:call:20:57,
+Turn: Kh9c:check:0:77, QcJd:check:0:77, 7s5c:check:0:77,
+River: Kh9c:check:0:77, QcJd:check:0:77, 7s5c:check:0:77,
+
+Players: AdKh#13 AsQs#16 Jc9s#17
+Winners: AdKh#13
+Board: Ac 2c Ts 2d 4s
+PreFlop: AsQs:small-blind:2:0, Jc9s:big-blind:5:2, AdKh:raise:25:7, AsQs:raise:75:32, Jc9s:fold:0:107, AdKh:call:50:107,
+Flop: AdKh:check:0:157, AsQs:raise:65:157, AdKh:call:65:222,
+Turn: AdKh:check:0:287, AsQs:raise:150:287, AdKh:call:150:437,
+River: AdKh:check:0:587, AsQs:raise:245:587, AdKh:call:245:832,
+
+2:18
+Players: 3d2d#13 AcTd#24 JsTh#17 Kh9c#11
+Winners: AcTd#24
+Board: 9s 2h Qd As
+PreFlop: JsTh:small-blind:2:0, Kh9c:big-blind:5:2, 3d2d:fold:0:7, AcTd:raise:20:7, JsTh:call:20:27, Kh9c:call:15:47,
+Flop: Kh9c:check:0:62, AcTd:check:0:62, JsTh:raise:55:62, Kh9c:call:55:117, AcTd:call:55:172
+Turn: Kh9c:check:0:227, AcTd:raise:85:227, JsTh:fold:0:312, Kh9c:fold:0:312,
+
+
+
+Players: Ks6d#24 9h7c#15 JcJs#16 Qd5c#17 KhTh#12
+Winners: KhTh#12
+Board: Ac 5d 3c 2d 2c
+PreFlop: Qd5c:small-blind:2:0, KhTh:big-blind:5:2, Ks6d:fold:0:7, 9h7c:fold:0:7, JcJs:raise:40:7, Qd5c:fold:0:47, KhTh:call:35:47,
+Flop: JcJs:check:0:82, KhTh:check:0:82,
+Turn: JcJs:check:0:82, KhTh:check:0:82,
+River: JcJs:check:0:82, KhTh:raise:100:82, JcJs:fold:0:182,
+
+Players: Kh6h#24 5s5d#15 8h8d#16 AhQd#18 As7s#11 3h2h#12 KsJh#13
+Winners: AhQd#18
+Board: 2s 5h Qh Kc Qs
+PreFlop: 3h2h:small-blind:2:0, KsJh:big-blind:5:2, Kh6h:fold:5:7, 5s5d:call:5:12, 8h8d:raise:50:17, AhQd:call:50:67, As7s:call:50:117, 3h2h:fold:0:167, KsJh:call:45:167, 5s5d:fold:0:212,
+Flop: 8h8d:check:0:82, AhQd:raise:140:212, As7s:fold:0:352, KsJh:fold:0:352, 8h8d:call:140:352
+Turn:
+River:
+
+Players: KsQs#18 KhJh#13 ThTs#24 6c5h#15 AhKc#16
+Winners: AhKc#16
+Board:
+PreFlop: 6c5h:small-blind:2:0, AhKc:big-blind:5:2, KsQs:raise:10:7, KhJh:raise:60:17, ThTs:call:60:77, 6c5h:fold:0:137, AhKc:raise:225:137, KsQs:fold:0:362, KhJh:fold:0:362, ThTs:fold:0:362,
+
+IMPORTANT
+Players: Jd3h#13 6c5h#24 AcJc#16 Jh9h#18
+Winners: Jh9h#18
+Board: 5s Qc 8h 8d 2d
+PreFlop: AcJc:small-blind:2:0, Jh9h:big-blind:5:2, Jd3h:fold:0:7, 6c5h:fold:0:7, AcJc:raise:20:7, Jh9h:call:17:27,
+Flop: Jh9h:check:0:44, AcJc:raise:25:44, Jh9h:call:25:59
+Turn: Jh9h:check:0:94, AcJc:check:0:94,
+River: Jh9h:raise:65:94, AcJc:fold:0:159,
+
+
+
+
+
+
+
+
+2:36
+Players: Ts8d#11 Jh8c#12 AdKc#13 Js5s#15
+Winners: AdKc#13
+Board: Jc 6h 6d
+PreFlop: Js5s:small-blind:2:0, AdKc:big-blind:5:2, Ts8d:raise:10:7, Jh8c:call:10:17, AdKc:raise:45:27, Js5s:fold:0:72, Ts8d:call:35:72, Jh8c:fold:0:107,
+Flop:  AdKc:raise:40:107, Ts8d:fold:0:147,
+
+
+Players: 7h6h#24 Ac9c#15 7d7c#11 QsQc#12
+Winners: QsQc#12
+Board: 4d As Ks 2d 8c
+PreFlop: 7d7c:small-blind:2:0, QsQc:big-blind:5:2, 7h6h:call:5:7, Ac9c:raise:30:12, 7d7c:raise:185:42, QsQc:call:183:227,7h6h:fold:0:410, Ac9c:fold:0:410,
+
+Players: AsQs#12 JcTc#13 Kc5c#15  6h6d#16
+Winners: AsQs#12
+Board: 7s 3s Ad
+PreFlop: Kc5c:small-blind:2:0, 6h6d:big-blind:5:2, AsQs:raise:20:7, JcTc:call:20:37, Kc5c:fold:0:57, 6h6d:call:15:57,
+Flop: 6h6d:check:0:72, AsQs:raise:25:72, JcTc:fold:0:87, 6h6d:fold:0:87,
+
+Players: AcTs#12 As2d#13 Ad5d#24 4s3d#15 KcQd#18
+Winners: AcTs#12
+Board: Jh 8h 9d
+PreFlop: 4s3d:small-blind:2:0, KcQd:big-blind:5:2, AcTs:raise:30:7, As2d:fold:0:37, Ad5d:call:30:37, 4s3d:fold:0:67, KcQd:call:25:67,
+Flop: KcQd:check:0:92, AcTs:raise:60:92, Ad5d:fold:0:152, KcQd:fold:0:152,
+Turn:
+River:
+
+Players: Ad7c#24 Qs7s#15 9c8c#16 Jh9h#17 Jc8h#18
+Winners: Jc8h#18
+Board: 5c 6d Js 2d 8s
+PreFlop: Jh9h:small-blind:2:0, Jc8h:big-blind:5:2, Ad7c:raise:15:7, Qs7s:call:15:22, 9c8c:call:15:37, Jh9h:call:13:52, Jc8h:call:10:65,
+Flop: Jh9h:check:0:75, Jc8h:check:0:75,  Ad7c:check:0:75,  Qs7s:check:0:75, 9c8c:check:0:75,
+Turn:  Jh9h:check:0:75, Jc8h:raise:25:75,  Ad7c:fold:0:100,  Qs7s:fold:0:100, 9c8c:call:25:100, Jh9h:fold:0:125,
+River: Jc8h:raise:75:125, 9c8c:fold:0:200,
+
+
+
+
+
+Players: 9s9c#15 Jh4c#18 2c2s#17 KcJc#12
+Winners: KcJc#12
+Board: Qc 5d 8c Qs Ks
+PreFlop: 2c2s:small-blind:2:0, KcJc:big-blind:5:2, 9s9c:raise:20:7, Jh4c:fold:0:27, 2c2s:call:17:27, KcJc:call:15:44,
+Flop: KcJc:check:0:59, 9s9c:check:0:59,  2c2s:check:0:59,
+Turn: KcJc:raise:35:59, 9s9c:call:35:94,  2c2s:fold:0:129,
+River: KcJc:raise:85:129, 9s9c:fold:0:214,
+
+Players: Qs5d#18 AcJh#12 AdQd#15 6d6c#16
+Winners: AdQd#15
+Board: 3s Kc As
+PreFlop: AdQd:small-blind:2:0, 6d6c:big-blind:5:2, Qs5d:fold:0:7, AcJh:raise:20:7, AdQd:raise:40:27, 6d6c:call:38:67, AcJh:call:20:105,
+Flop: 6d6c:check:0:125, AcJh:check:0:125,  AdQd:raise:75:125, 6d6c:fold:0:200, AcJh:fold:0:200,
+
+Players: Qc7h#12 JhJd#15 QsTs#16 Qd7s#17 Ac3s#18
+Winners: JhJd#15
+Board: 2h 7d Ah 4h
+PreFlop: Qd7s:small-blind:2:0, Ac3s:big-blind:5:2, Qc7h:fold:0:7, JhJd:raise:15:7, QsTs:call:15:22, Qd7s:fold:0:37, Ac3s:call:15:37,
+Flop: Ac3s:check:0:52, JhJd:check:0:52, QsTs:check:0:52,
+Turn: Ac3s:raise:10:52, JhJd:raise:30:62, QsTs:fold:0:92, Ac3s:fold:0:92,
+
+Players: 6h3h#13 Qh6c#15 As9c#16 AcJh#12
+Winners:  AcJh#12
+Board: Tc Ad 3s Js 8h
+PreFlop: As9c:small-blind:2:0, AcJh:big-blind:5:2, 6h3h:fold:0:7, Qh6c:fold:0:7, As9c:raise:20:7, AcJh:call:17:27,
+Flop: AcJh:check:0:44, As9c:raise:20:44, AcJh:call:20:64,
+Turn: AcJh:check:0:84, As9c:raise:40:84, AcJh:raise:130:124, As9c:call:90:254,
+River: AcJh:raise:225:344, As9c:fold:0:569
+
+Players: AsJh#24 Jc9c#15 KhQd#13 Ah8c#16 TsTc#17
+Winners:  TsTc#17
+Board: 4s 8h 9d
+PreFlop: Ah8c:small-blind:2:0, TsTc:big-blind:5:2, AsJh:raise:20:7, Jc9c:fold:0:27, KhQd:call:20:27, Ah8c:fold:0:47, TsTc:raise:60:47, AsJh:call:40:107,KhQd:fold:0:147,
+Flop: AsJh:check:0:147, TsTc:raise:110:147, AsJh:fold:0:257,
+
+Players: 9c7s#24 8c5c#15
+Winners: 8c5c#15
+Board: Kh Tc Ad
+PreFlop: 9c7s:small-blind:2:0, 8c5c:big-blind:5:2, 9c7s:raise:10:7, 8c5c:call:10:17,
+Flop: 9c7s:check:0:27, 8c5c:raise:30:27, 9c7s:fold:0:57,
+
+Players: AcJd#15 7c2c#16 QsTs#12
+Winners:  AcJd#15
+Board: Ks 7d Qh 8d Ad
+PreFlop: 7c2c:small-blind:2:0, QsTs:big-blind:5:2, AcJd:call:10:7, 7c2c:raise:50:17, QsTs:call:47:67, AcJd:call:40:114,
+Flop: AcJd:check:0:144, 7c2c:raise:75:144, QsTs:call:75:219, AcJd:call:75:294,
+Turn: AcJd:check:0:371, 7c2c:check:0:371, QsTs:check:0:371,
+River: AcJd:check:0:371, 7c2c:check:0:371, QsTs:check:0:371,
+
+
+Players: KhTd#15 Qs8s#16 7c6s#17 Ah2s#18 AdJd#12 QcTc#13
+Winners: AdJd#12
+Board: 2d 5d 9c
+PreFlop: AdJd:small-blind:2:0, QcTc:big-blind:5:2, KhTd:call:5:7, Qs8s:raise:10:12, 7c6s:call:10:22, Ah2s:call:10:32, AdJd:raise:65:42, QcTc:call:55:107, KhTd:fold:0:162, Qs8s:call:55:162, 7c6s:fold:0:217, Ah2s:call:55:217,
+Flop: Qs8s:check:0:272, Ah2s:check:0:272, AdJd:raise:120:272, QcTc:fold:0:392, Qs8s:fold:0:392, Ah2s:fold:0:392,
+
+Players: AdQh#13 QdTs#24 JsTd#15 Qs3s#18
+Winners: QdTs#24
+Board: 7s 6h 8d Jc
+PreFlop: JsTd:small-blind:2:0, Qs3s:big-blind:5:2, AdQh:raise:35:7, QdTs:call:35:42, JsTd:fold:0:77, Qs3s:call:30:77,
+Flop: Qs3s:check:0:107, AdQh:raise:35:107, QdTs:call:35:142, Qs3s:call:35:177,
+Turn: Qs3s:check:0:212, AdQh:check:0:212, QdTs:raise:75:212, Qs3s:fold:0:287, AdQh:fold:0:287,
+
+3:17
+Players: 8c7h#12 Qd8s#13 9c2c#24 AsJs#16 QcTd#17 AhTc#18
+Winners: AsJs#16
+Board: 5c Jd 6h
+PreFlop: QcTd:small-blind:2:0, AhTc:big-blind:5:2, 8c7h:fold:0:7, Qd8s:fold:0:7, 9c2c:fold:0:7, AsJs:raise:20:7, QcTd:call:18:27, AhTc:call:15:45,
+Flop: QcTd:check:0:60, AhTc:check:0:60, AsJs:raise:25:60,QcTd:fold:0:87, AhTc:fold:0:85,
+
+Players: Jh6h#13 9s4s#24 9h7h#15 2s2d#17 Kc8c#18 QcJd#12
+Winners: 9h7h#15
+Board: 4d Ac Td 7s
+PreFlop: Kc8c:small-blind:2:0, QcJd:big-blind:5:2, Jh6h:fold:0:7, 9s4s:fold:0:7, 9h7h:raise:20:7, 2s2d:call:20:27, Kc8c:call:18:47, QcJd:call:15:65,
+Flop: Kc8c:check:0:80, QcJd:check:0:80, 9h7h:check:0:80, 2s2d:check:0:80,
+Turn: Kc8c:check:0:80, QcJd:check:0:80, 9h7h:raise:55:80, 2s2d:fold:0:135, Kc8c:fold:0:135, QcJd:fold:0:135,
+
+Players: QdQc#12 5d4s#15 8c7c#18
+Winners: QdQc#12
+Board: Kh 4d 3c Jh
+PreFlop: 5d4s:small-blind:2:0, 8c7c:big-blind:5:2, QdQc:raise:35:7, 5d4s:fold:0:42, 8c7c:call:30:42,
+Flop: QdQc:check:0:72, 8c7c:check:0:72,
+Turn:  QdQc:raise:30:72, 8c7c:fold:0:102,
+
+
+Players:Qc8c#24 AdKh#15 8s4c#16 Qs3d#17 Ac7d#18 JsJc#12
+Winners: JsJc#12
+Board:
+PreFlop: Ac7d:small-blind:2:0, JsJc:big-blind:5:2, Qc8c:call:5:7, AdKh:raise:35:12, 8s4c:fold:0:47, Qs3d:fold:0:47, Ac7d:fold:0:47, JsJc:raise:115:47, AdKh:fold:0:162,
+
+Players: Kc2s#12 Js6h#13 8c7d#24 Ac9c#16 Qh4c#17
+Winners: Kc2s#12
+Board: 5s 2c Ah Qs Kh
+PreFlop: Ac9c:small-blind:2:0, Qh4c:big-blind:5:2, Kc2s:raise:20:7, Js6h:fold:0:27, 8c7d:call:20:27, Ac9c:call:18:47, Qh4c:fold:0:65,
+Flop: Ac9c:check:0:65, Kc2s:check:0:65, 8c7d:check:0:65,
+Turn: Ac9c:raise:25:65, Kc2s:call:25:90, 8c7d:fold:0:115,
+River: Ac9c:check:0:115, Kc2s:raise:80:115, Ac9c:fold:0:195,
+
+Players: 5c4c#13 JsJc#24 Jd8s#16 9c8h#12
+Winners: 5c4c#13
+Board: 2h 8c 3c
+PreFlop: Jd8s:small-blind:2:0, 9c8h:big-blind:5:2, 5c4c:raise:5:7, JsJc:raise:35:12, Jd8s:fold:0:47, 9c8h:call:30:47, 5c4c:call:30:77,
+Flop: 5c4c:check:0:107, JsJc:raise:55:107, 9c8h:call:55:162, 5c4c:raise:175:217, JsJc:fold:0:392, 9c8h:fold:0:392,
+
+Players: Tc9c#24 Jc9d#15 QsJd#12 Ah5c#13
+Winners: QsJd#12
+Board: Qc Qh 7h Jh 8d
+PreFlop: QsJd:small-blind:2:0, Ah5c:big-blind:5:2, Tc9c:raise:10:7, Jc9d:call:10:17, QsJd:call:8:27, Ah5c:call:5:37,
+Flop: Tc9c:check:0:42, Jc9d:check:0:42, QsJd:check:0:42, Ah5c:check:0:42,
+Turn: Tc9c:raise:35:42, Jc9d:fold:0:77, QsJd:call:35:77, Ah5c:call:35:112,
+River: Tc9c:raise:50:147, QsJd:call:50:197, Ah5c:fold:0:247,
+
+
+
+
+
+Players: KhQs#17 AhQd#18 9h9d#12 AdQc#13 Jc5c#24
+Winners: AdQc#13
+Board: 8d Jd 7h
+PreFlop: AdQc:small-blind:2:0, Jc5c:big-blind:5:2, KhQs:call:5:7, AhQd:raise:25:12, 9h9d:call:25:37, AdQc:call:25:62, Jc5c:fold:0:87, KhQs:call:25:87,
+Flop: KhQs:check:0:112, AhQd:raise:30:112, 9h9d:call:30:142, AdQc:raise:125:172, KhQs:fold:0:297, AhQd:fold:0:297, 9h9d:fold:0:297,
+
+Players: 6s6d#13 AsJs#24 Ts7d#15 9h3s#18
+Winners: 6s6d#13
+Board: 8s 7s Td 7h 2d
+PreFlop: Ts7d:small-blind:2:0, 9h3s:big-blind:5:2, 6s6d:raise:25:7, AsJs:call:25:32, Ts7d:fold:0:57, 9h3s:fold:0:57,
+Flop: 6s6d:check:0:57, AsJs:check:0:57,
+Turn: 6s6d:check:0:57, AsJs:raise:25:57, 6s6d:call:25:82,
+River: 6s6d:check:0:107, AsJs:check:0:107,
+
+

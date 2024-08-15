@@ -1,0 +1,98 @@
+# Default values for rule-engine.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+replicaCount: 1
+
+env:
+  mongodb:
+    database: poker
+    host: mongodb.mongodb.svc
+    port: 27017
+    secretName: mongodb
+    authenticationDatabase: admin
+  poker:
+    holdem:
+      calc:
+        client:
+          endpoint: "http://poker-holdem-calculator-rest:8080"
+          connectTimeoutSeconds: 10
+          readTimeoutSeconds: 120
+    percentage:
+      calc:
+        showdownCalcParallelism: 10
+
+image:
+  repository: stef.jfrog.io/default-docker-local/${appName}
+  pullPolicy: Always
+  # Overrides the image tag whose default is the chart appVersion.
+  tag: ${appVersion}
+
+imagePullSecrets:
+  - name: jfrog-docker-creds
+nameOverride: ""
+fullnameOverride: ""
+
+serviceAccount:
+  # Specifies whether a service account should be created
+  create: true
+  # Annotations to add to the service account
+  annotations: {}
+  # The name of the service account to use.
+  # If not set and create is true, a name is generated using the fullname template
+  name: ""
+
+podAnnotations: {}
+
+podSecurityContext: {}
+  # fsGroup: 2000
+
+securityContext: {}
+  # capabilities:
+  #   drop:
+  #   - ALL
+  # readOnlyRootFilesystem: true
+  # runAsNonRoot: true
+  # runAsUser: 1000
+
+service:
+  type: ClusterIP
+  port: 8080
+
+ingress:
+  enabled: true
+  className: "nginx"
+  annotations:
+    nginx.ingress.kubernetes.io/proxy-read-timeout: "600"
+    # kubernetes.io/ingress.class: nginx
+    # kubernetes.io/tls-acme: "true"
+    # nginx.ingress.kubernetes.io/rewrite-target: /rule-engine/$2
+    # nginx.ingress.kubernetes.io/use-regex: "true"
+  hosts:
+    - host:
+      paths:
+        - path: /rule-engine/
+          pathType: Prefix
+  tls: []
+  #  - secretName: chart-example-tls
+  #    hosts:
+  #      - chart-example.local
+
+resources:
+   limits:
+     memory: 756Mi
+   requests:
+     memory: 756Mi
+
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 100
+  targetCPUUtilizationPercentage: 80
+  # targetMemoryUtilizationPercentage: 80
+
+nodeSelector: {}
+
+tolerations: []
+
+affinity: {}

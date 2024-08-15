@@ -1,0 +1,140 @@
+{
+  "games": [
+    {
+      "applicationId": "app1",
+      "sessionId": "unique-id",
+      "tableCards": [
+        "Ts",
+        "Js",
+        "Kd",
+        "Qs",
+        "As"
+      ],
+      "players": [
+        {
+          "userId": "test1@test.com",
+          "cards": [
+            "As",
+            "9s"
+          ]
+        },
+        {
+          "userId": "test2@test.com",
+          "cards": [
+            "Kd",
+            "Tc"
+          ]
+        },
+        {
+          "userId": "test3@test.com",
+          "cards": [
+            "Jd",
+            "Jh"
+          ]
+        },
+        {
+          "userId": "test4@test.com",
+          "cards": [
+            "Jc",
+            "Kh"
+          ]
+        }
+      ],
+      "roundBets": {
+        "pre-flop": [
+          {
+            "userId": "test1@test.com",
+            "amount": 10,
+            "type": "small-blind"
+          },
+          {
+            "userId": "test2@test.com",
+            "amount": 20,
+            "type": "big-blind"
+          },
+          {
+            "userId": "test3@test.com",
+            "amount": 20,
+            "type": "call"
+          },
+          {
+            "userId": "test4@test.com",
+            "amount": 20,
+            "type": "call"
+          },
+          {
+            "userId": "test1@test.com",
+            "amount": 10,
+            "type": "call"
+          }
+        ],
+        "flop": [
+          {
+            "userId": "test3@test.com",
+            "amount": 0,
+            "type": "check"
+          },
+          {
+            "userId": "test4@test.com",
+            "amount": 20,
+            "type": "raise"
+          },
+          {
+            "userId": "test1@test.com",
+            "amount": 0,
+            "type": "fold"
+          },
+          {
+            "userId": "test2@test.com",
+            "amount": 40,
+            "type": "raise"
+          },
+          {
+            "userId": "test3@test.com",
+            "amount": 40,
+            "type": "call"
+          },
+          {
+            "userId": "test4@test.com",
+            "amount": 20,
+            "type": "call"
+          }
+        ],
+        "turn": [
+          {
+            "userId": "test3@test.com",
+            "amount": 20,
+            "type": "raise"
+          },
+          {
+            "userId": "test4@test.com",
+            "amount": 20,
+            "type": "call"
+          },
+          {
+            "userId": "test2@test.com",
+            "amount": 20,
+            "type": "call"
+          }
+        ],
+        "river": [
+          {
+            "userId": "test3@test.com",
+            "amount": 1000,
+            "type": "all-in"
+          },
+          {
+            "userId": "test4@test.com",
+            "amount": 2000,
+            "type": "all-in"
+          },
+          {
+            "userId": "test2@test.com",
+            "amount": 2000,
+            "type": "all-in"
+          }
+        ]
+      }
+    }
+  ]
+}
